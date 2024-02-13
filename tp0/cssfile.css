@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(22, 172, 202);
+    color: white;
+}
+
+h1
+{
+    font-size: 14px;
+}
+
+p
+{
+    margin-left: 4em;
+}
+
+strong
+{
+    border: 3px solid rgb(4, 75, 119);
+    color: rgb(7, 4, 67);
+    background-color: white;
+}
